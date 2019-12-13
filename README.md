@@ -1,2 +1,2 @@
 # react-native-for-web
-![image](http://pasteboard.co/IL1YBTg.png)
+![image](https://pasteboard.co/IL1YBTg.png)
